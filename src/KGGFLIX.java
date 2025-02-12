@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class IT2 {
+public class KGGFLIX {
     private static int[] genreWatchTime = new int[9];
     private static List<String> viewingHistory = new ArrayList<>();
     
